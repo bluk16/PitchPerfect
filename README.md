@@ -1,7 +1,6 @@
 # PitchPerfect
-First iOS app that record audio input from user and play it back in different pitch
+##First iOS app that record audio input from user and play it back in different pitches
 
-Learnt iOS development from Udacity. 
 
 * What I have learnt and gone through by working and completing this project --
 * Create a new project from existing iOS app templates
@@ -12,4 +11,7 @@ Learnt iOS development from Udacity.
 * Play audio files using AVFoundation’s AVAudioEngine class
 * Search documentation (UIViewController, AVAudioRecording...), resolve bugs, and read other people’s code
 
+![img1]({{ site.baseurl }}/Screen Shot 2016-04-24 at 1.29.28 PM.png)
+![img2]({{ site.baseurl }}/PitchPerfect/Screen Shot 2016-04-24 at 1.29.43 PM.png)
 
+iOS development from Udacity. 
